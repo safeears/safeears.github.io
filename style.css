@@ -1,16 +1,14 @@
 .icon {
-    display: block;
-    width: 20%;
-    text-align: center;
-    display: table-cell;
-    
-  }
-  
-  .text {
-    display: block;
-    width: 80%;
-    display: table-cell;
-   
-  }
-  
-  
+  display: block;
+  width: 20%;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.text {
+  display: block;
+  width: 80%;
+  display: table-cell;
+  vertical-align: middle;
+}
