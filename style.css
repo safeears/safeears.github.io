@@ -1,0 +1,16 @@
+.icon {
+    display: block;
+    width: 20%;
+    text-align: center;
+    display: table-cell;
+    
+  }
+  
+  .text {
+    display: block;
+    width: 80%;
+    display: table-cell;
+   
+  }
+  
+  
